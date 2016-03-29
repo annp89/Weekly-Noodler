@@ -1,4 +1,4 @@
-from collections import *
+from collections import defaultdict
  
 fib_call_count = defaultdict(int)
  
